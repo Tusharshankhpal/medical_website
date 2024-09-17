@@ -25,7 +25,7 @@ This repository contains the frontend code for **Medicio**, a multi-specialist h
    ```bash
    git clone https://github.com/yourusername/medico-hospital-website.git
 2. **Navigate to the project directory:**
-
+   ```bash
    cd medico-hospital-website
 
    
