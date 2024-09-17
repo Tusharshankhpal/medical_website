@@ -24,3 +24,6 @@ This repository contains the frontend code for **Medicio**, a multi-specialist h
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/medico-hospital-website.git
+2.  Navigate to the project directory:
+    cd medico-hospital-website
+3.Open index.html in your browser: You can open the project locally by navigating to the index.html file and opening it in any modern web browser.
