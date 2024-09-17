@@ -23,7 +23,7 @@ This repository contains the frontend code for **Medicio**, a multi-specialist h
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/medico-hospital-website.git
+   https://tusharshankhpal.github.io/medical_website/
 2. **Navigate to the project directory:**
    ```bash
    cd medico-hospital-website
